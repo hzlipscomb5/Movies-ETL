@@ -5,7 +5,7 @@ __pycache__/
 config.py
 #Datafiles
 ratings.csv
-movies_metadata.csv
+
 
 # C extensions
 *.so
